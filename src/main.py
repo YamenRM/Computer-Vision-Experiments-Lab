@@ -43,4 +43,3 @@ with tab4:
 
 st.write("YamenRM - 2026")
 st.write("Feel free to explore the different features and have fun experimenting with computer vision!")
-
