@@ -24,6 +24,11 @@ Hand gestures are translated into mouse actions such as:
 - Clicking
 - Basic interaction without touching the mouse
 
+### Virtual Drawing Mode 
+- Turn your finger into a digital brush.
+- Draw on the screen in real-time using hand gestures.
+- Features include clear screen options and smooth tracking.
+
 
 ---
 
@@ -53,7 +58,7 @@ used models:
 2. OpenCV processes the frames.
 3. MediaPipe detects face and hand landmarks.
 4. The program interprets gestures or positions.
-5. Visual effects or mouse actions are applied in real time.
+5. Visual effects or mouse actions or drawing strokes are applied in real time.
 
 ---
 
@@ -71,7 +76,7 @@ pip install -r requirements.txt
 
 #### 2- Change model parameters(optinal)
 
-feel free to change the options of the models .
+feel free to change the options of the models in the source code.
 
 ### 3- run main.py
 
@@ -85,6 +90,8 @@ streamlit run src/main.py
 
 3. Hand Mouse Control
 
+4. Drawing Mode
+
 ### 5- Allow camera access
 
 ### 6- Have fun
@@ -93,8 +100,8 @@ streamlit run src/main.py
 
 ## Future Improvements
 
-- Virtual drawing
 - Gesture shortcuts
+- Multiple brush colors and sizes
 - Performance optimization
 
 ---
