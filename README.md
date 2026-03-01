@@ -5,6 +5,11 @@ The project demonstrates real-time face tracking, hand tracking, gesture control
 
 ---
 
+## Live demo
+[Computer Vision Playground](https://huggingface.co/spaces/YamenRM/computer-vision-playground)
+
+---
+
 ## Features
 
 ### Face Landmark Detection
@@ -39,6 +44,7 @@ Hand gestures are translated into mouse actions such as:
 - MediaPipe
 - OpenCV
 - PyAutoGUI
+- Huggingface
 
 ---
 
