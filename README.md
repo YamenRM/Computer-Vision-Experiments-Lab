@@ -9,7 +9,7 @@ The application demonstrates face tracking, hand tracking, gesture-based control
 
 ![Hand AR Demo](Misc/hand.gif)
 
-![Drawing Demo](Misc/drawing.gif)
+![Drawing Demo](Misc/draw.gif)
 
 ![Face Landmark Ditiction Demo](Misc/face.gif)
 
